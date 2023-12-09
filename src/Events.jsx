@@ -443,7 +443,7 @@ function Events() {
                                     type="text"
                                     name="linkedin_link"
                                     value={formData.linkedin_link}
-                                    placeholder="Linkedin Link"
+                                    placeholder="Enter the Googleform / wp group link"
                                     onChange={handleInputChange}
                                 />
                             </FloatingLabel>
